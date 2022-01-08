@@ -1,0 +1,37 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+}
+
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+span{
+    padding: 0;
+    display: inline;
+    margin: 0;
+}
+
+.blue{
+    color: #74ACDF;
+}
+.yellow{
+    color: #F6B40E;
+}
+.white{
+    color: white;
+}
